@@ -9,6 +9,16 @@ List of the various challenge websites and my progress
 
 ------
 
+## [PyBites](https://pybit.es/)
+
+* [Exercises](https://codechalleng.es/bites/)
+* [Challenges](https://codechalleng.es/challenges/)
+* [100 Days of Python](https://codechalleng.es/100days/)
+
+[![Ninja](https://codechalleng.es/static/img/honors/white.png "PyBites Ninja White Belt")](https://codechalleng.es/badge/white)
+
+------
+
 ## [LeetCode](https://leetcode.com/)
 
 ------
