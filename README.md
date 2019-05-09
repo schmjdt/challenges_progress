@@ -87,6 +87,34 @@ List of the various challenge websites and my progress
 
 ------
 
+## [The Odin Project](https://www.theodinproject.com)
+
+<details><summary>The Odin Project : 1%</summary>
+
+<details><summary>Web Development 101 : 5%</summary>
+</details>
+
+<details><summary>Ruby Programming : 0%</summary>
+</details>
+
+<details><summary>Databases : 0%</summary>
+</details>
+
+<details><summary>Ruby on Rails : 0%</summary>
+</details>
+
+<details><summary>HTML and CSS : 0%</summary>
+</details>
+
+<details><summary>Javascript : 0%</summary>
+</details>
+
+<details><summary>Getting Hired : 0%</summary>
+</details>
+
+</details>
+
+------
 ## [FreeCodeCamp](https://www.freecodecamp.org/)
 
 <details><summary>FreeCodeCamp : 13%</summary>
