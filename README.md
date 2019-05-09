@@ -115,6 +115,7 @@ List of the various challenge websites and my progress
 </details>
 
 ------
+
 ## [FreeCodeCamp](https://www.freecodecamp.org/)
 
 <details><summary>FreeCodeCamp : 13%</summary>
@@ -192,6 +193,39 @@ List of the various challenge websites and my progress
 *   1% : Take Home Projects
 *   0% : Rosetta Code
 *   0% : Project Euler
+
+</details>
+
+</details>
+
+------
+
+## [100DaysOfCode](https://www.100daysofcode.com/)
+
+The GitHub template to fork that will get you started located [here](https://github.com/kallaway/100-days-of-code)
+
+<details><summary>Resources</summary>
+
+* [PyBites - Article](https://pybit.es/special-100days.html)
+* [Talk Python - Course](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python?s=pybites)
+* [Talk Python - Podcast E140](https://talkpython.fm/episodes/show/140/level-up-your-python-with-100daysofcode-challenge)
+* [Talk Python - Podcast E186](https://talkpython.fm/episodes/show/186/100-days-of-python-in-a-magical-universe)
+
+</details>
+
+<details><summary>My 100DaysOfX</summary>
+
+* TBD
+
+</details>
+
+<details><summary>Others 100DaysOfX</summary>
+
+<details><summary>100DaysOfCode</summary>
+
+* [Kallaway](https://github.com/kallaway/100-days-kallaway-log)
+* [PyBites](https://github.com/pybites/100DaysOfCode)
+* [Magical Universe](https://github.com/zotroneneis/magical_universe)
 
 </details>
 
