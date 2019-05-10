@@ -87,6 +87,14 @@ List of the various challenge websites and my progress
 
 ------
 
+## [Python For Everybody (PY4E)](https://www.py4e.com/assignments)
+
+[Dr. Charles Severance](http://dr-chuck.com/)
+
+Also located on [Coursera](https://www.coursera.org/learn/python?specialization=python)
+
+------
+
 ## [The Odin Project](https://www.theodinproject.com)
 
 <details><summary>The Odin Project : 1%</summary>
