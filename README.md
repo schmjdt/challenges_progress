@@ -89,9 +89,11 @@ List of the various challenge websites and my progress
 
 ## [Python For Everybody (PY4E)](https://www.py4e.com/assignments)
 
-[Dr. Charles Severance](http://dr-chuck.com/)
+**Note:** *Login required to see assignments*
 
-Also located on [Coursera](https://www.coursera.org/learn/python?specialization=python)
+[Dr. Charles Severance](http://dr-chuck.com/) - Additional information
+
+Also located on [Coursera](https://www.coursera.org/learn/python?specialization=python) for full course and certificate
 
 ------
 
