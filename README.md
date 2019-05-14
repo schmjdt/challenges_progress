@@ -124,6 +124,13 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 ------
 
+## [CheckiO](https://checkio.org/)
+
+* [Python](https://py.checkio.org/user/schmjdt/)
+* [JavaScript](https://js.checkio.org/user/schmjdt/)
+
+------
+
 ## [FreeCodeCamp](https://www.freecodecamp.org/)
 
 <details><summary>FreeCodeCamp : 13%</summary>
