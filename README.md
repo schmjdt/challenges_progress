@@ -247,3 +247,15 @@ The GitHub template to fork that will get you started located [here](https://git
 </details>
 
 </details>
+
+------
+
+## [KataCoda](https://katacoda.com/learn)
+
+Interactive Browser Based Labs, Courses & Playgrounds
+
+<details><summary>KataCoda</summary>
+
+* 12% : [Git](https://www.katacoda.com/courses/git)
+
+</details>
