@@ -85,6 +85,10 @@ List of the various challenge websites and my progress
 
 ## [HackerRank](https://www.hackerrank.com/)
 
+[My HackerRank](http://hr.gs/od3qdp)
+
+[30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
 ------
 
 ## [Python For Everybody (PY4E)](https://www.py4e.com/assignments)
