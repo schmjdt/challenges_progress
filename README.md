@@ -19,6 +19,13 @@ List of the various challenge websites and my progress
 
 ------
 
+## [CheckiO](https://checkio.org/)
+
+* [Python](https://py.checkio.org/user/schmjdt/)
+* [JavaScript](https://js.checkio.org/user/schmjdt/)
+
+------
+
 ## [LeetCode](https://leetcode.com/)
 
 ------
@@ -135,13 +142,6 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 </details>
 
 </details>
-
-------
-
-## [CheckiO](https://checkio.org/)
-
-* [Python](https://py.checkio.org/user/schmjdt/)
-* [JavaScript](https://js.checkio.org/user/schmjdt/)
 
 ------
 
