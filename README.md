@@ -106,6 +106,10 @@ List of the various challenge websites and my progress
 
 ------
 
+## [Codility](https://app.codility.com/programmers/)
+
+------
+
 ## [Python For Everybody (PY4E)](https://www.py4e.com/assignments)
 
 **Note:** *Login required to see assignments*
