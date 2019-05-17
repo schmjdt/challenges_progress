@@ -116,6 +116,72 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 ------
 
+## [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+
+[What Is Code Jam](https://www.youtube.com/watch?v=MYNz8PYEK9o&list=)
+[Quick Start Guide](https://code.google.com/codejam/resources/quickstart-guide#gcj)
+
+<details><summary>Archive</summary>
+  
+<details><summary>2019 : Live</summary>
+</details>
+
+<details><summary><a href="https://codingcompetitions.withgoogle.com/codejam/archive/2018">2018</a> : 0%</summary>
+  
+  *   0% : Practice Session
+  *   0% : Qualification Round
+  *   0% : Round 1A
+  *   0% : Round 1B
+  *   0% : Round 1C
+  *   0% : Round 2
+  *   0% : Round 3
+  *   0% : World Finals
+  
+</details>
+
+<details><summary><a href="https://codingcompetitions.withgoogle.com/codejam/archive/2017">2017</a> : 0%</summary>
+  
+  *   0% : Qualification Round
+  *   0% : Round 1A
+  *   0% : Round 1B
+  *   0% : Round 1C
+  *   0% : Round 2
+  *   0% : Round 3
+  *   0% : World Finals
+  
+</details>
+
+<details><summary><a href="https://codingcompetitions.withgoogle.com/codejam/archive/2016">2016</a> : 0%</summary>
+  
+  *   0% : Qualification Round
+  *   0% : Round 1A
+  *   0% : Round 1B
+  *   0% : Round 1C
+  *   0% : Round 2
+  *   0% : Round 3
+  *   0% : World Finals
+  
+</details>
+
+<details><summary><a href="https://codingcompetitions.withgoogle.com/codejam/archive/2015">2015</a> : 0%</summary>
+  
+  *   0% : Qualification Round
+  *   0% : Round 1A
+  *   0% : Round 1B
+  *   0% : Round 1C
+  *   0% : Round 2
+  *   0% : Round 3
+  *   0% : World Finals
+  
+</details>
+
+</details>
+
+</details>
+
+
+------
+
 ## [The Odin Project](https://www.theodinproject.com)
 
 <details><summary>The Odin Project : 1%</summary>
