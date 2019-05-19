@@ -1,6 +1,10 @@
 # Challenges
 List of the various challenge websites and my progress
 
+You are welcome to fork and share your own progress 
+
+Or even make a pull request to add more sites!
+
 ------
 
 ## [CodeWars](https://www.codewars.com)
