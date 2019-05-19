@@ -110,6 +110,12 @@ List of the various challenge websites and my progress
 
 ------
 
+## [Code Combat](https://codecombat.com/home)
+
+[My Hero](https://codecombat.com/user/schmjdt) - Level 10
+
+------
+
 ## [Python For Everybody (PY4E)](https://www.py4e.com/assignments)
 
 **Note:** *Login required to see assignments*
