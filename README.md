@@ -229,31 +229,31 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 <details><summary>FreeCodeCamp : 13%</summary>
 
-<details><summary>Responsive Web Design : 23%</summary>
+<details><summary>Responsive Web Design : 124/194</summary>
 
-* 100% : Basic HTML and HTML5
-*  82% : Basic CSS
-*   0% : Applied Visual Design
-*   0% : Applied Accessibility
-*   0% : Responsive Web Design Principles
-*   0% : CSS Flexbox
-*   0% : CSS Grid
-*   0% : Responsive Web Design Projects
+* 28/28 : Basic HTML and HTML5
+* 44/44 : Basic CSS
+* 52/52 : Applied Visual Design
+* 00/22 : Applied Accessibility
+* 00/04 : Responsive Web Design Principles
+* 00/17 : CSS Flexbox
+* 00/22 : CSS Grid
+* 00/05 : Responsive Web Design Projects
 
 </details>
 
-<details><summary>Javascript Algorithms And Data Structures : 27%</summary>
+<details><summary>Javascript Algorithms And Data Structures : 130/299</summary>
 
-*  94% : Basic JavaScript
-*   0% : ES6
-*   0% : Regular Expressions
-*   0% : Debugging
-*   0% : Basic Data Structures
-*  81% : Basic Algorithm Scripting
-*   0% : Object Oriented Programming
-*   0% : Functional Programming
-*  33% : Intermediate Algorithm Scripting
-*  60% : JavaScript Algorithms and Data Structures Projects
+* 107/111 : Basic JavaScript
+* 000/031 : ES6
+* 000/033 : Regular Expressions
+* 000/012 : Debugging
+* 000/020 : Basic Data Structures
+* 013/016 : Basic Algorithm Scripting
+* 000/026 : Object Oriented Programming
+* 000/024 : Functional Programming
+* 007/021 : Intermediate Algorithm Scripting
+* 003/005 : JavaScript Algorithms and Data Structures Projects
 
 </details>
 
