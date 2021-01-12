@@ -229,12 +229,12 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 <details><summary>FreeCodeCamp : 13%</summary>
 
-<details><summary>Responsive Web Design : 124/194</summary>
+<details><summary>Responsive Web Design : 146/194</summary>
 
 * 28/28 : Basic HTML and HTML5
 * 44/44 : Basic CSS
 * 52/52 : Applied Visual Design
-* 00/22 : Applied Accessibility
+* 22/22 : Applied Accessibility
 * 00/04 : Responsive Web Design Principles
 * 00/17 : CSS Flexbox
 * 00/22 : CSS Grid
