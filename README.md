@@ -277,24 +277,54 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 </details>
 
-<details><summary>Apis And Microservices : 0%</summary>
+<details><summary>Back End Development and APIs : 0%</summary>
 
 *   0% : Managing Packages with Npm
 *   0% : Basic Node and Express
 *   0% : MongoDB and Mongoose
-*   0% : Apis and Microservices Projects
+*   0% : Back End Development and APIs Projects
 
 </details>
 
-<details><summary>Information Security And Quality Assurance : 0%</summary>
+<details><summary>Quality Assurance : 0%</summary>
 
-*   0% : Information Security with HelmetJS
 *   0% : Quality Assurance and Testing with Chai
 *   0% : Advanced Node and Express
-*   0% : Information Security and Quality Assurance Projects
+*   0% : Quality Assurance Projects
+
+</details>
+  
+<details><summary>Scientific Computing with Python : 0%</summary>
+
+*   0% : Python for Everybody
+*   0% : Scientific Computing with Python Projects
+
+</details>
+  
+<details><summary>Data Analysis with Python : 0%</summary>
+
+*   0% : Data Analysis with Python
+*   0% : Numpy
+*   0% : Data Analysis with Python Projects
+
+</details>
+  
+<details><summary>Information Security : 0%</summary>
+
+*   0% : Information Security with HelmetJS
+*   0% : Python for Penetration Testing
+*   0% : Information Security Projects
 
 </details>
 
+<details><summary>Machine Learning with Python : 0%</summary>
+
+*   0% : Tensorflow
+*   0% : How Neural Networks Work
+*   0% : Machine Learning with Python Projects
+
+</details>
+  
 <details><summary>Coding Interview Prep : 0%</summary>
 
 *   0% : Algorithms
@@ -304,8 +334,36 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 *   0% : Project Euler
 
 </details>
+  
+<details><summary>Responsive Web Design (Beta) : 0%</summary>
+
+*   0% : TBD...
+  
+</details>
+  
+<details><summary>Relational Database (Beta) : 0%</summary>
+
+*   0% : TBD...
+  
+</details>
 
 </details>
+
+------
+
+## [QVault](https://app.qvault.io/)
+
+Courses and Projects for Go, Python, and JavaScript
+Discord Community
+
+Nice refresher for Big-O Algorithms and Data Structures
+First couples lessons of each course are free, then requires paid membership to complete
+
+------
+
+## [Manning LiveProject](https://liveproject.manning.com/)
+
+Manning Publishing - book site with interactive live projects
 
 ------
 
