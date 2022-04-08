@@ -351,8 +351,9 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 ------
 
-## [QVault](https://app.qvault.io/)
+## [Boot.dev](https://boot.dev/)  
 
+Formerly QVault.io
 Courses and Projects for Go, Python, and JavaScript
 Discord Community
 
