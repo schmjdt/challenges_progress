@@ -410,3 +410,41 @@ Interactive Browser Based Labs, Courses & Playgrounds
 * 12% : [Git](https://www.katacoda.com/courses/git)
 
 </details>
+
+------
+
+## [OSSU](https://github.com/ossu/computer-science)
+
+Open Source Society University - Path to a free self-taught education in Computer Science!
+<br/>
+Trackers: 
+[Notion](https://free-compsci-degree-imc.notion.site/The-Open-Source-Computer-Science-Degree-b799dc75720c48fcb602e58c0c103155) | 
+[Trello](https://trello.com/b/IScNSzsI/ossu-compsci)
+
+<details><summary>Intro CS : 0%</summary>
+
+*   0% : Introduction to Programming
+*   0% : Introduction to Computer Science
+
+</details>
+<details><summary>Core CS : 0%</summary>
+
+*   0% : Core programming
+*   0% : Core math
+*   0% : CS Tools
+*   0% : Core systems
+*   0% : Core theory
+*   0% : Core security
+*   0% : Core applications
+*   0% : Core ethics
+
+</details>
+<details><summary>Advanced CS : 0%</summary>
+
+*   0% : Advanced programming
+*   0% : Advanced systems
+*   0% : Advanced theory
+*   0% : Advanced Information Security
+*   0% : Advanced math
+
+</details>
