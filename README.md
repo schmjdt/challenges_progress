@@ -225,7 +225,7 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 ------
 
-## [FreeCodeCamp](https://www.freecodecamp.org/)
+## [FreeCodeCamp](https://www.freecodecamp.org/schmjdt)
 
 <details><summary>FreeCodeCamp : 13%</summary>
 
@@ -242,10 +242,10 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 </details>
 
-<details><summary>Javascript Algorithms And Data Structures : 130/299</summary>
+<details><summary>Javascript Algorithms And Data Structures : 136/299</summary>
 
-* 107/111 : Basic JavaScript
-* 000/031 : ES6
+* 113/113 : Basic JavaScript
+* 000/029 : ES6
 * 000/033 : Regular Expressions
 * 000/012 : Debugging
 * 000/020 : Basic Data Structures
@@ -259,22 +259,41 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 <details><summary>Front End Libraries : 29%</summary>
 
-* 100% : Bootstrap
-* 100% : jQuery
-*   0% : Sass
-*   0% : React
-*   0% : Redux
-*   0% : React and Redux
-*   0% : Front End Libraries Projects
+* 31/31 : Bootstrap
+* 18/18 : jQuery
+* 00/09 : Sass
+* 00/47 : React
+* 00/17 : Redux
+* 00/10 : React and Redux
+* 00/05 : Front End Libraries Projects
 
 </details>
 
 <details><summary>Data Visualization : 11%</summary>
 
-*  34% : Data Visualization with D3
-*   0% : JSON APIs and Ajax
-*   0% : Data Visualization Projects
+* 10/29 : Data Visualization with D3
+* 00/10 : JSON APIs and Ajax
+* 00/05 : Data Visualization Projects
 
+</details>
+
+<details><summary>Relational Database (Beta) : 0%</summary>
+
+*   0% : Learn Bash by Building a Boilerplate
+*   0% : Learn Relational Databases by Building a Mario Database
+*   0% : Celestial Bodies Database
+*   0% : Learn Bash Scripting by Building Five Programs
+*   0% : Learn SQL by Building a Student Database: Part 1
+*   0% : Learn SQL by Building a Student Database: Part 2
+*   0% : World Cup Database
+*   0% : Learn Advanced Bash by Building a Kitty Ipsum Translator
+*   0% : Learn Bash and SQL by Building a Bike Rental Shop
+*   0% : Salon Appointment Scheduler
+*   0% : Learn Nano by Building a Castle
+*   0% : Learn Git by Building an SQL Reference Object
+*   0% : Periodic Table Database
+*   0% : Number Guessing Game
+  
 </details>
 
 <details><summary>Back End Development and APIs : 0%</summary>
@@ -288,9 +307,9 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 <details><summary>Quality Assurance : 0%</summary>
 
-*   0% : Quality Assurance and Testing with Chai
-*   0% : Advanced Node and Express
-*   0% : Quality Assurance Projects
+* 00/25 : Quality Assurance and Testing with Chai
+* 00/22 : Advanced Node and Express
+* 00/05 : Quality Assurance Projects
 
 </details>
   
@@ -324,6 +343,19 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 *   0% : Machine Learning with Python Projects
 
 </details>
+
+<details><summary>College Algebra with Python : 0%</summary>
+
+*   0% : Ratios and Proportions
+*   0% : How to Solve for X
+*   0% : Fractions and Decimals
+*   0% : Functions and Graphing
+*   0% : Linear Functions
+*   0% : Common Factors and Square Roots
+*   0% : Project: Multi-Function Calculator
+*   Many More!!!
+
+</details>
   
 <details><summary>Coding Interview Prep : 0%</summary>
 
@@ -335,13 +367,30 @@ Also located on [Coursera](https://www.coursera.org/learn/python?specialization=
 
 </details>
   
-<details><summary>Responsive Web Design (Beta) : 0%</summary>
+<details><summary>Foundational C# with Microsoft : 0%</summary>
 
-*   0% : TBD...
+* https://learn.microsoft.com/en-us/training/modules/csharp-write-first/
+* 0/7 : Write Your First Code Using C#
+* 0/8 : Create and Run Simple C# Console Applications
+* 0/8 : Add Logic to C# Console Applications
+* 0/8 : Work with Variable Data in C# Console Applications
+* 0/6 : Create Methods in C# Console Applications
+* 0/7 : Debug C# Console Applications
+* 0/1 : Foundational C# with Microsoft Certification Exam
   
 </details>
+
+<details><summary>Project Euler : 0%</summary>
+
+*   001/100 : Project Euler Problems 001 to 100
+*   000/100 : Project Euler Problems 101 to 200
+*   000/100 : Project Euler Problems 201 to 300
+*   000/100 : Project Euler Problems 301 to 400
+*   000/080 : Project Euler Problems 401 to 480
   
-<details><summary>Relational Database (Beta) : 0%</summary>
+</details>
+
+<details><summary>Responsive Web Design (Beta) : 0%</summary>
 
 *   0% : TBD...
   
